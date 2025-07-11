@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 ## About me
 👨‍💻 Computer Engineer and PhD in Computing with 17 years of professional experience in the IT industry, having worked in various companies across the sector.
+
 📚 I also have an academic background with 17 scientific publications
